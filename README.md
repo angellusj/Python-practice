@@ -1,1 +1,1 @@
-# Python-practice
+# Práticas de Python
